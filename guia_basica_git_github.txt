@@ -1,0 +1,76 @@
+Comandos paso a paso para crear un repositorio local
+
+git init
+
+git config user.name "nombreusuario" (usar --global despues de config)
+
+git config user.email email@aja.com (usar --global despues de config)
+
+git remote add origin http://kajsd.git (apunta al repositorio remoto)
+
+
+Comando paso a paso para clonar un repositorio
+
+Crear una carpeta en donde se clonará la carpeta
+
+git clone nombre_repositorio.git
+
+cd nombre_repositorio
+
+git remote -v # Sirve para verificar si está vinculado el repositorio
+
+Comandos paso a paso para subir cambios
+
+git add .
+
+git commit -m "mensaje descriptivo"
+
+git push origin master (envia los cambios al repositorio remoto)
+
+git status
+
+
+Otros comandos
+
+git pull origin master (descarga todos los cambios de repositorio, util cuando hay conflictos)
+
+git remote -v (testeo si esta apuntando al repo correcto
+
+Paso a paso para crear un repositorio desde github
+
+git clone linkdelrepo.git
+
+Paso a paso para crear ramas
+
+git branch (regresa las ramas del proyecto)
+
+git branch NombreRama (crear una rama)
+
+git checkout NombreRama (se mueve a una rama)
+
+git add .
+
+git commit -m "comentarios
+
+git push origin NombreRama (sube a la rama)
+
+se debe de hacer un merge
+
+nos pasamos a la rama que queremos hacer el merge
+
+git checkout master
+
+git merge NombreRama
+
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
