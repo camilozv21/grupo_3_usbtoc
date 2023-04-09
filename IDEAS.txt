@@ -13,3 +13,18 @@ https://www.logitech.com/es-roam
 https://www.lemon.me/en
 -------Dinamismo en el logo de logitech------
 https://www.logitech.com/es-roam
+-------QR que dirige a redes sociales foter-----------
+https://www.lemon.me/en
+-------cotizar con un asesor--------------------
+https://www.masterspc.com.co/contacto
+-------puntos de venta----------------------------
+https://redragon.es/stores/
+
+Punto de venta --> Fran  --> https://redragon.es/stores/
+Home --> Augusto --> https://www.logitech.com/es-roam
+Detalle de producto --> Marcos  --> https://www.logitech.com/es-roam/products/combos/mk470-slim-wireless-keyboard-mouse.920-011312.html
+Login --> Gabriel --> https://www.xpg.com/es/member/login
+Registro --> Camilo --> https://www.xpg.com/es/member/register
+Lista de deseo --> Augusto --> página de lista de deseos de steam (incluir contador en vivo para incluir nuevos poructos)
+Carrito de compras --> Fran --> https://www.amazon.com/-/es/gp/cart/view.html?ref_=nav_cart (Carrito de compras de amazon)
+
