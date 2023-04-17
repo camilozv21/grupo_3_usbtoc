@@ -34,7 +34,7 @@ Hola soy Marcos Neuenschwander Viel, tengo 20 años y vivo en Buenos Aires. Esto
     https://redragon.es/stores/
 
 <h3>Entregable opcional</h3>
----
+
 <h3>Posibles tipografías</h3>
 
 * Raleway
