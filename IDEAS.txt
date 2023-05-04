@@ -28,3 +28,11 @@ Registro --> Camilo --> https://www.xpg.com/es/member/register
 Lista de deseo --> Augusto --> página de lista de deseos de steam (incluir contador en vivo para incluir nuevos poructos)
 Carrito de compras --> Fran --> https://www.amazon.com/-/es/gp/cart/view.html?ref_=nav_cart (Carrito de compras de amazon)
 
+Paletas de colores
+Paleta de colores fríos: #0072C6, #00AEEF, #00BFFF, #00C2FF
+
+Paleta de colores cálidos: #FF3B30, #FF9500, #FFCC00, #4CD964
+
+Paleta monocromática: #1A1A1A, #333333, #4D4D4D, #666666
+
+Paleta de colores contrastantes: #FF3B30, #0072C6, #FFCC00, #4CD964
