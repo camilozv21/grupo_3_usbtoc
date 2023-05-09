@@ -1,0 +1,31 @@
+Recursos para fuentes:
+
+Fuente Roboto:
+
+https://fonts.google.com/specimen/Roboto
+
+HTML:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Roboto', sans-serif;
+
+Fuente Raleway:
+
+https://fonts.google.com/specimen/Raleway
+
+HTML:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Roboto', sans-serif;
+
+PALETAS DE COLORES:
+
+* #0F4C81, #9BB7D4, #E6F2FF
+* #003B6F, #00A3E0, #FFFFFF
+* #1F3C88, #F1F5F8, #E5E5E5
